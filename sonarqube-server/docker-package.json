@@ -1,0 +1,14 @@
+{
+  "name": "@modelcontextprotocol/server-sonarqube",
+  "version": "0.1.0",
+  "description": "MCP server for using the SonarQube API",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.0.1",
+    "@types/node": "^22",
+    "axios": "^1.6.7",
+    "zod": "^3.22.4",
+    "zod-to-json-schema": "^3.23.5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gcloud-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Google Cloud MCP Server for Claude Desktop",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.0.1",
+    "@google-cloud/compute": "^4.0.0",
+    "@google-cloud/storage": "^7.0.0",
+    "@google-cloud/bigquery": "^7.0.0",
+    "@google-cloud/vision": "^4.0.0"
+  }
+}
